@@ -56,8 +56,7 @@
 
 	- C programs can be **diffcult to modify**. Large programs written in C can be hard to change if they haven't been designed with maintenance in mind.
 
-- 'lint': A tool used in C to check errors. It is not just limited to errorsit can be used to check for suspicious combinations of types, unused variables, unreachable code, and non portable code. It produces a list of diagnostic messages, which the programmer has to sift through. The advantages of using lint is that it can detect errrors that the compiler may have missed. However lint can produce messages by the hundreds, of which only a fraction refer to actual errors.
+- `lint`: A tool used in C to check errors. It is not just limited to errorsit can be used to check for suspicious combinations of types, unused variables, unreachable code, and non portable code. It produces a list of diagnostic messages, which the programmer has to sift through. The advantages of using lint is that it can detect errrors that the compiler may have missed. However lint can produce messages by the hundreds, of which only a fraction refer to actual errors.
 
-	- 'splint': An advanced version of 'lint' is already available in many linux distribution called as 'splint' and can be downloadded for free from **www.splint.org**.
-
+	- `splint`: An advanced version of `lint` is already available in many linux distribution called as `splint` and can be downloadded for free from **www.splint.org**.
 
